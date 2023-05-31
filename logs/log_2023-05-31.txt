@@ -1,0 +1,22 @@
+2023-05-31T22:37:06.466Z - Home page accessed
+2023-05-31T22:37:06.468Z - HTTP status code: 200
+2023-05-31T22:37:06.470Z - File successfully read
+2023-05-31T22:37:32.205Z - Contact page accessed
+2023-05-31T22:37:32.205Z - HTTP status code: 200
+2023-05-31T22:37:32.205Z - Route accessed: /contact
+2023-05-31T22:37:32.207Z - File successfully read
+2023-05-31T22:37:32.712Z - Products page accessed
+2023-05-31T22:37:32.713Z - Route accessed: /products
+2023-05-31T22:37:32.712Z - HTTP status code: 200
+2023-05-31T22:37:32.714Z - File successfully read
+2023-05-31T22:37:33.266Z - Subscribe page accessed
+2023-05-31T22:37:33.267Z - Route accessed: /subscribe
+2023-05-31T22:37:33.267Z - HTTP status code: 200
+2023-05-31T22:37:33.268Z - File successfully read
+2023-05-31T22:37:33.763Z - About page accessed
+2023-05-31T22:37:33.764Z - HTTP status code: 200
+2023-05-31T22:37:33.764Z - Route accessed: /about
+2023-05-31T22:37:33.766Z - File successfully read
+2023-05-31T22:37:45.828Z - HTTP status code: 404
+2023-05-31T22:37:45.828Z - Error or warning occurred with status code: 404
+2023-05-31T22:37:45.829Z - Route accessed: /dogs
