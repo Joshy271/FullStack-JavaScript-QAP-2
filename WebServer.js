@@ -34,6 +34,11 @@ const server = http.createServer((request, response) => {
       emitEvent("subscribePageAccessed");
       serveHTMLFile("subscribe.html", response);
       break;
+    case "/bonus":
+      console.log("Bonus page requested");
+      emitEvent("BonusPageAccessed");
+      serveHTMLFile("bonus.html", response);
+      break;
     default:
       console.log("Invalid route requested");
       emitEvent("invalidRouteAccessed");
@@ -123,6 +128,11 @@ myEmitter.on("homePageAccessed", () => {
 myEmitter.on("subscribePageAccessed", () => {
   console.log("Subscribe page accessed");
   writeLogToFile("Subscribe page accessed");
+});
+
+myEmitter.on("BonusPageAccessed", () => {
+  console.log("Bonus page accessed");
+  writeLogToFile("Bonus page accessed");
 });
 
 // Scenario 4: For every route that is not the home, write a message to the console.

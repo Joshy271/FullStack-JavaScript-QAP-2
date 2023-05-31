@@ -20,3 +20,56 @@
 2023-05-31T22:37:45.828Z - HTTP status code: 404
 2023-05-31T22:37:45.828Z - Error or warning occurred with status code: 404
 2023-05-31T22:37:45.829Z - Route accessed: /dogs
+2023-05-31T23:26:38.521Z - Home page accessed
+2023-05-31T23:26:38.522Z - HTTP status code: 200
+2023-05-31T23:26:38.524Z - File successfully read
+2023-05-31T23:26:39.680Z - Home page accessed
+2023-05-31T23:26:39.680Z - HTTP status code: 200
+2023-05-31T23:26:39.681Z - File successfully read
+2023-05-31T23:26:39.898Z - HTTP status code: 404
+2023-05-31T23:26:39.899Z - Error or warning occurred with status code: 404
+2023-05-31T23:26:39.899Z - Route accessed: /favicon.ico
+2023-05-31T23:26:43.989Z - Bonus page accessed
+2023-05-31T23:26:43.989Z - HTTP status code: 200
+2023-05-31T23:26:43.989Z - Route accessed: /bonus
+2023-05-31T23:26:43.990Z - File successfully read
+2023-05-31T23:26:47.144Z - Home page accessed
+2023-05-31T23:26:47.144Z - HTTP status code: 200
+2023-05-31T23:26:47.145Z - File successfully read
+2023-05-31T23:27:13.488Z - Home page accessed
+2023-05-31T23:27:13.488Z - HTTP status code: 200
+2023-05-31T23:27:13.490Z - File successfully read
+2023-05-31T23:27:14.921Z - Home page accessed
+2023-05-31T23:27:14.921Z - HTTP status code: 200
+2023-05-31T23:27:14.922Z - File successfully read
+2023-05-31T23:27:15.641Z - Bonus page accessed
+2023-05-31T23:27:15.641Z - HTTP status code: 200
+2023-05-31T23:27:15.641Z - Route accessed: /bonus
+2023-05-31T23:27:15.642Z - File successfully read
+2023-05-31T23:27:17.493Z - HTTP status code: 200
+2023-05-31T23:27:17.493Z - Products page accessed
+2023-05-31T23:27:17.493Z - Route accessed: /products
+2023-05-31T23:27:17.494Z - File successfully read
+2023-05-31T23:27:20.784Z - Subscribe page accessed
+2023-05-31T23:27:20.785Z - HTTP status code: 200
+2023-05-31T23:27:20.785Z - Route accessed: /subscribe
+2023-05-31T23:27:20.786Z - File successfully read
+2023-05-31T23:27:22.312Z - Contact page accessed
+2023-05-31T23:27:22.313Z - HTTP status code: 200
+2023-05-31T23:27:22.313Z - Route accessed: /contact
+2023-05-31T23:27:22.314Z - File successfully read
+2023-05-31T23:27:24.409Z - Subscribe page accessed
+2023-05-31T23:27:24.410Z - HTTP status code: 200
+2023-05-31T23:27:24.410Z - Route accessed: /subscribe
+2023-05-31T23:27:24.411Z - File successfully read
+2023-05-31T23:27:25.536Z - HTTP status code: 200
+2023-05-31T23:27:25.535Z - Contact page accessed
+2023-05-31T23:27:25.536Z - Route accessed: /contact
+2023-05-31T23:27:25.536Z - File successfully read
+2023-05-31T23:27:26.851Z - HTTP status code: 200
+2023-05-31T23:27:26.851Z - Bonus page accessed
+2023-05-31T23:27:26.851Z - Route accessed: /bonus
+2023-05-31T23:27:26.852Z - File successfully read
+2023-05-31T23:27:28.595Z - Home page accessed
+2023-05-31T23:27:28.595Z - HTTP status code: 200
+2023-05-31T23:27:28.596Z - File successfully read
